@@ -1,0 +1,16 @@
+# virtual environment
+*/.venv*
+todo.py
+
+
+# django
+*/static
+
+# comment
+*/temp*
+*/*/temp*
+temp?
+
+*.md
+README-secret.md
+!README*.md

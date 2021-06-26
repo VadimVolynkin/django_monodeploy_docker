@@ -1,16 +1,18 @@
-# virtual environment
 */.venv*
-todo.py
+backend/.venv
+*/.env*
+.git
 
 
 # django
 */static
+*/media
 
 # comment
 */temp*
 */*/temp*
 temp?
 
-*.md
-README-secret.md
-!README*.md
+# *.md
+# README-secret.md
+# !README*.md

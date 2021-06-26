@@ -3,7 +3,7 @@ You can create FRONTSERVER with NGINX to LOAD_BALANCING several appservers.
 
 ===== HOW TO RUN
 1. To choose gunicorn or uwsgi update Pipfile and entrypoint.sh.
-2. Change vars in .env on yours
+2. Change vars in .env.example on yours
 3. docker-compose up
 
 Logs and configs of nginx, gunicorn, uwsgi available in path backend.
